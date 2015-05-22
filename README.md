@@ -1,2 +1,4 @@
 # hello-world
-nexus 9000-lab 1
+Automating Moderning Datacenter
+Nexus 9000 Workshop
+Lab 1 - Github
